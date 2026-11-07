@@ -17,11 +17,11 @@
                 "id": 614765452,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T21:16:47Z",
-                "open_issues": 688,
+                "last_commit": "2026-11-07T22:21:35Z",
+                "open_issues": 697,
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 187927,
+                "stars": 187934,
                 "topics": [
                   "agentic-ai",
                   "agents",
@@ -54,7 +54,7 @@
                 "open_issues": 7,
                 "owner": "xtekky",
                 "repo": "gpt4free",
-                "stars": 67019,
+                "stars": 67022,
                 "topics": [
                   "chatbot",
                   "chatbots",
@@ -96,7 +96,7 @@
                 "open_issues": 26,
                 "owner": "zylon-ai",
                 "repo": "private-gpt",
-                "stars": 57632,
+                "stars": 57631,
                 "topics": [
                   "ai",
                   "ai-tools",
@@ -121,7 +121,7 @@
                 "open_issues": 1048,
                 "owner": "lm-sys",
                 "repo": "FastChat",
-                "stars": 39546,
+                "stars": 39545,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:22:30.944Z"
@@ -163,7 +163,7 @@
                 "open_issues": 101,
                 "owner": "zilliztech",
                 "repo": "GPTCache",
-                "stars": 8220,
+                "stars": 8221,
                 "topics": [
                   "aigc",
                   "autogpt",
@@ -242,7 +242,7 @@
                 "open_issues": 57,
                 "owner": "yihong0618",
                 "repo": "xiaogpt",
-                "stars": 7018,
+                "stars": 7021,
                 "topics": [
                   "chatgpt",
                   "llms",
@@ -736,10 +736,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T16:53:07Z",
-            "open_issues": 920,
+            "open_issues": 925,
             "owner": "mem0ai",
             "repo": "mem0",
-            "stars": 68531,
+            "stars": 68577,
             "topics": [
               "agentic-memory",
               "agentic-memory-system",
@@ -771,11 +771,11 @@
             "id": 600596928,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-06T23:35:51Z",
-            "open_issues": 1155,
+            "last_commit": "2026-11-07T22:38:21Z",
+            "open_issues": 1153,
             "owner": "LibreChat-AI",
             "repo": "LibreChat",
-            "stars": 46812,
+            "stars": 46846,
             "topics": [
               "ai",
               "anthropic",
@@ -814,10 +814,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-01-09T03:26:43Z",
-            "open_issues": 1044,
+            "open_issues": 1045,
             "owner": "songquanpeng",
             "repo": "one-api",
-            "stars": 37344,
+            "stars": 37352,
             "topics": [
               "api",
               "api-gateway",
@@ -905,7 +905,7 @@
             "open_issues": 36,
             "owner": "rawandahmad698",
             "repo": "PyChatGPT",
-            "stars": 4183,
+            "stars": 4182,
             "topics": [
               "chatgpt",
               "openai",
@@ -975,7 +975,7 @@
             "open_issues": 3,
             "owner": "Continuum-AI-Corp",
             "repo": "OrcaReplay",
-            "stars": 369,
+            "stars": 397,
             "topics": [
               "agent-debugging",
               "agent-tracing",
@@ -1012,7 +1012,7 @@
             "open_issues": 1,
             "owner": "HemulGM",
             "repo": "DelphiOpenAI",
-            "stars": 318,
+            "stars": 319,
             "topics": [
               "api-wrapper",
               "azure",
@@ -1238,7 +1238,7 @@
             "open_issues": 524,
             "owner": "nextai-translator",
             "repo": "nextai-translator",
-            "stars": 25026,
+            "stars": 25028,
             "topics": [
               "browser-extension",
               "chatgpt",
@@ -1267,7 +1267,7 @@
             "open_issues": 106,
             "owner": "wong2",
             "repo": "chatgpt-google-extension",
-            "stars": 13016,
+            "stars": 13015,
             "topics": [
               "browser-extension",
               "chatgpt",
@@ -1293,7 +1293,7 @@
             "open_issues": 106,
             "owner": "wong2",
             "repo": "chatgpt-google-extension",
-            "stars": 13016,
+            "stars": 13015,
             "topics": [
               "browser-extension",
               "chatgpt",
@@ -1319,7 +1319,7 @@
             "open_issues": 228,
             "owner": "ChatGPTBox-dev",
             "repo": "chatGPTBox",
-            "stars": 10772,
+            "stars": 10771,
             "topics": [
               "browser-extension",
               "chatgpt",
@@ -1348,7 +1348,7 @@
             "open_issues": 96,
             "owner": "interstellard",
             "repo": "chatgpt-advanced",
-            "stars": 6423,
+            "stars": 6422,
             "topics": [
               "ai",
               "browser-extension",
@@ -1825,7 +1825,7 @@
             "open_issues": 957,
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54664,
+            "stars": 54662,
             "topics": [
               "ai",
               "app",
@@ -1928,7 +1928,7 @@
             "open_issues": 20,
             "owner": "leetcode-mafia",
             "repo": "cheetah",
-            "stars": 4250,
+            "stars": 4251,
             "topics": [
               "ai",
               "chatgpt",
@@ -1959,7 +1959,7 @@
             "open_issues": 28,
             "owner": "PurpleDoubleD",
             "repo": "locally-uncensored",
-            "stars": 3501,
+            "stars": 3562,
             "topics": [
               "agent",
               "ai-chat",
@@ -2001,7 +2001,7 @@
             "open_issues": 7,
             "owner": "akl7777777",
             "repo": "ShellGPT",
-            "stars": 2018,
+            "stars": 2017,
             "topics": [
               "bobplugin",
               "chatgpt",
@@ -2119,11 +2119,11 @@
                 "id": 610038902,
                 "language": "Emacs Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-05T05:13:33Z",
-                "open_issues": 207,
+                "last_commit": "2026-11-07T20:42:28Z",
+                "open_issues": 208,
                 "owner": "karthink",
                 "repo": "gptel",
-                "stars": 3561,
+                "stars": 3563,
                 "topics": [
                   "chatgpt",
                   "emacs",
@@ -2419,7 +2419,7 @@
                 "open_issues": 5,
                 "owner": "ist-dresden",
                 "repo": "composum-AI",
-                "stars": 6,
+                "stars": 7,
                 "topics": [
                   "adobe-aem",
                   "adobe-experience-manager",
@@ -2469,7 +2469,7 @@
             "open_issues": 775,
             "owner": "nomic-ai",
             "repo": "gpt4all",
-            "stars": 77338,
+            "stars": 77343,
             "topics": [
               "ai-chat",
               "llm-inference"
@@ -2489,11 +2489,11 @@
             "id": 522158088,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-06T04:02:33Z",
-            "open_issues": 42,
+            "last_commit": "2026-11-07T04:56:19Z",
+            "open_issues": 41,
             "owner": "zhayujie",
             "repo": "CowAgent",
-            "stars": 47819,
+            "stars": 47830,
             "topics": [
               "ai",
               "ai-agent",
@@ -2532,7 +2532,7 @@
             "open_issues": 0,
             "owner": "mayooear",
             "repo": "ai-pdf-chatbot-langchain",
-            "stars": 16584,
+            "stars": 16585,
             "topics": [
               "agents",
               "ai",
@@ -2563,7 +2563,7 @@
             "open_issues": 53,
             "owner": "fuergaosi233",
             "repo": "wechat-chatgpt",
-            "stars": 13227,
+            "stars": 13226,
             "topics": []
           },
           "first_seen": "2026-08-29T02:22:30.944Z"
@@ -2726,7 +2726,7 @@
             "open_issues": 0,
             "owner": "Zero6992",
             "repo": "chatGPT-discord-bot",
-            "stars": 2729,
+            "stars": 2731,
             "topics": [
               "bot",
               "chatgpt",
@@ -2773,7 +2773,7 @@
             "open_issues": 20,
             "owner": "XInTheDark",
             "repo": "raycast-g4f",
-            "stars": 1087,
+            "stars": 1088,
             "topics": [
               "chatbot",
               "chatgpt",
@@ -3174,11 +3174,11 @@
             "id": 596516907,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-06T21:46:09Z",
-            "open_issues": 92,
+            "last_commit": "2026-11-07T16:45:05Z",
+            "open_issues": 86,
             "owner": "arc53",
             "repo": "DocsGPT",
-            "stars": 18360,
+            "stars": 18363,
             "topics": [
               "agent-builder",
               "agents",
@@ -3220,7 +3220,7 @@
             "open_issues": 37,
             "owner": "Nutlope",
             "repo": "roomGPT",
-            "stars": 10713,
+            "stars": 10714,
             "topics": []
           },
           "first_seen": "2026-08-29T02:22:30.944Z"
@@ -3241,7 +3241,7 @@
             "open_issues": 0,
             "owner": "phodal",
             "repo": "understand-prompt",
-            "stars": 5658,
+            "stars": 5659,
             "topics": [
               "ai",
               "aigc",
@@ -3448,7 +3448,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-20T10:19:31Z",
-            "open_issues": 859,
+            "open_issues": 863,
             "owner": "ChatGPTNextWeb",
             "repo": "NextChat",
             "stars": 88946,
@@ -3491,7 +3491,7 @@
             "open_issues": 332,
             "owner": "binary-husky",
             "repo": "gpt_academic",
-            "stars": 71615,
+            "stars": 71620,
             "topics": [
               "academic",
               "chatglm-6b",
@@ -3518,7 +3518,7 @@
             "open_issues": 219,
             "owner": "reworkd",
             "repo": "AgentGPT",
-            "stars": 36264,
+            "stars": 36261,
             "topics": [
               "agent",
               "agentgpt",
@@ -3555,7 +3555,7 @@
             "open_issues": 245,
             "owner": "mckaywrigley",
             "repo": "chatbot-ui",
-            "stars": 33316,
+            "stars": 33317,
             "topics": []
           },
           "first_seen": "2026-08-29T02:22:30.944Z"
@@ -3576,7 +3576,7 @@
             "open_issues": 237,
             "owner": "ai-shifu",
             "repo": "ChatALL",
-            "stars": 16509,
+            "stars": 16510,
             "topics": [
               "bingchat",
               "chatbot",
@@ -3612,7 +3612,7 @@
             "open_issues": 41,
             "owner": "JimmyLv",
             "repo": "BibiGPT-v1",
-            "stars": 6272,
+            "stars": 6273,
             "topics": [
               "bilibili",
               "chatgpt",
@@ -3640,7 +3640,7 @@
             "open_issues": 40,
             "owner": "ourongxing",
             "repo": "chatgpt-vercel",
-            "stars": 3206,
+            "stars": 3204,
             "topics": [
               "chatgpt",
               "edge-function",
@@ -3690,11 +3690,11 @@
             "id": 1232322871,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T17:38:48Z",
+            "last_commit": "2026-11-07T21:24:55Z",
             "open_issues": 6,
             "owner": "vostride",
             "repo": "agent-qa",
-            "stars": 856,
+            "stars": 855,
             "topics": [
               "ai-agents",
               "ai-testing",
@@ -3803,7 +3803,7 @@
             "id": 676022080,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T06:10:08Z",
+            "last_commit": "2026-11-07T14:56:52Z",
             "open_issues": 0,
             "owner": "c121914yu",
             "repo": "FastGPT",
@@ -3824,7 +3824,7 @@
             "id": 1355857144,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T15:33:30Z",
+            "last_commit": "2026-11-07T15:20:16Z",
             "open_issues": 6,
             "owner": "theguysudo",
             "repo": "ENZO",
@@ -3905,7 +3905,7 @@
             "open_issues": 19,
             "owner": "socai-io",
             "repo": "jev-social",
-            "stars": 201,
+            "stars": 205,
             "topics": [
               "agent-skills",
               "ai-agents",
@@ -3943,11 +3943,11 @@
             "id": 1239570688,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-06T23:44:04Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-07T21:16:57Z",
+            "open_issues": 8,
             "owner": "5dive-ai",
             "repo": "5dive",
-            "stars": 107,
+            "stars": 111,
             "topics": [
               "agent-loops",
               "agent-orchestration",
@@ -4020,7 +4020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T23:45:52.004Z",
+    "last_updated": "2026-11-07T22:53:37.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆 An awe-inspiring collection of resources, encompassing a wide range of tools, documents, resources, applications, and use cases related to ChatGPT.",
@@ -4028,11 +4028,11 @@
       "id": 602455110,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-11-06T07:29:39Z",
-      "open_issues": 24,
+      "last_commit": "2026-11-07T06:42:25Z",
+      "open_issues": 25,
       "owner": "awesome-gptX",
       "repo": "awesome-gpt",
-      "stars": 1141,
+      "stars": 1140,
       "topics": [
         "awesome",
         "awesome-list",
@@ -4047,7 +4047,7 @@
         "usingchatgpt"
       ]
     },
-    "original_repository_sha": "4a7c6f1b6e2b9b5091edf8ddba47a7b9d1df66ec",
+    "original_repository_sha": "dbeef38683eb570f0bff963c6820833c02979251",
     "enhanced_repository": "enhansome/enhansome-gpt",
     "enhanced_repository_description": null,
     "title": "Awesome-ChatGPT with stars"
