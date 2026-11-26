@@ -62,29 +62,29 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ### Python
 
-* [Auto-GPT](https://github.com/Torantulino/Auto-GPT) ⭐ 188,171 | 🐛 845 | 🌐 Python | 📅 2026-11-25 An experimental open-source attempt to make GPT-4 fully autonomous
-* [gpt4free](https://github.com/xtekky/gpt4free) ⭐ 67,104 | 🐛 4 | 🌐 Python | 📅 2026-11-25 decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com etc...)
-* [privateGPT](https://github.com/imartinez/privateGPT) ⭐ 57,653 | 🐛 27 | 🌐 Python | 📅 2026-11-24 Interact privately with your documents using the power of GPT, 100% privately, no data leaks
-* [FastChat](https://github.com/lm-sys/FastChat) ⭐ 39,548 | 🐛 1,055 | 🌐 Python | 📅 2026-05-01 An open platform for training, serving, and evaluating large language model based chatbots
+* [Auto-GPT](https://github.com/Torantulino/Auto-GPT) ⭐ 188,199 | 🐛 858 | 🌐 Python | 📅 2026-11-26 An experimental open-source attempt to make GPT-4 fully autonomous
+* [gpt4free](https://github.com/xtekky/gpt4free) ⭐ 67,111 | 🐛 4 | 🌐 Python | 📅 2026-11-25 decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com etc...)
+* [privateGPT](https://github.com/imartinez/privateGPT) ⭐ 57,657 | 🐛 27 | 🌐 Python | 📅 2026-11-25 Interact privately with your documents using the power of GPT, 100% privately, no data leaks
+* [FastChat](https://github.com/lm-sys/FastChat) ⭐ 39,552 | 🐛 1,037 | 🌐 Python | 📅 2026-05-01 An open platform for training, serving, and evaluating large language model based chatbots
 * [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) ⭐ 25,553 | 🐛 375 | 🌐 Python | 📅 2024-09-02 MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
-* [GPTCache](https://github.com/zilliztech/GPTCache) ⭐ 8,235 | 🐛 104 | 🌐 Python | 📅 2026-09-22 GPTCache is a library for creating semantic cache to store responses from LLM queries
-* [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) ⭐ 7,639 | 🐛 48 | 🌐 TypeScript | 📅 2024-09-04 Providing a free OpenAI GPT-4 API ! This is a replication project for the typescript version of xtekky/gpt4free
-* [xiaogpt](https://github.com/yihong0618/xiaogpt) ⭐ 7,079 | 🐛 58 | 🌐 Python | 📅 2026-11-20 Play ChatGPT with xiaomi AI speaker
+* [GPTCache](https://github.com/zilliztech/GPTCache) ⭐ 8,237 | 🐛 104 | 🌐 Python | 📅 2026-09-22 GPTCache is a library for creating semantic cache to store responses from LLM queries
+* [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) ⭐ 7,640 | 🐛 48 | 🌐 TypeScript | 📅 2024-09-04 Providing a free OpenAI GPT-4 API ! This is a replication project for the typescript version of xtekky/gpt4free
+* [xiaogpt](https://github.com/yihong0618/xiaogpt) ⭐ 7,078 | 🐛 58 | 🌐 Python | 📅 2026-11-20 Play ChatGPT with xiaomi AI speaker
 * [DemoGPT](https://github.com/melih-unsal/DemoGPT) ⭐ 1,906 | 🐛 10 | 🌐 Python | 📅 2026-04-01 🧩 DemoGPT enables you to create quick demos by just using prompts.
-* [openai-quickstart-python](https://github.com/openai/openai-quickstart-python) ⭐ 1,833 | 🐛 4 | 📅 2024-06-14 Python example app from the OpenAI API quickstart tutorial
+* [openai-quickstart-python](https://github.com/openai/openai-quickstart-python) ⭐ 1,834 | 🐛 5 | 📅 2024-06-14 Python example app from the OpenAI API quickstart tutorial
 * [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) ⭐ 1,263 | 🐛 46 | 🌐 Python | 📅 2024-01-17 An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.
-* [ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader) ⭐ 754 | 🐛 16 | 🌐 Python | 📅 2024-02-20 This repository provides a simple interface that utilizes the gpt-3.5-turbo model to read academic papers in PDF format locally
+* [ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader) ⭐ 753 | 🐛 16 | 🌐 Python | 📅 2024-02-20 This repository provides a simple interface that utilizes the gpt-3.5-turbo model to read academic papers in PDF format locally
 * [knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) ⭐ 293 | 🐛 8 | 🌐 Python | 📅 2023-04-25 Extract knowledge from all information sources using gpt and other language models. Index and make Q\&A session with information sources
 * [email-automation](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/email-automation) ⭐ 188 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-04-22 : Automates news briefing / blogging with email automation.
 * [chatbot](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/chatbot) ⭐ 188 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-04-22 : ChatGPT Integrated faster and secure chatbot hosted on cloud.
 * [whisper speech-to-text](https://github.com/xiaowuc2/ChatGPT-Python-Applications/tree/main/whisper-speech-text) ⭐ 188 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-04-22 : OpnAI's whisper is a library to convert speech to text.
-* [AwesomeChatGPTBot](https://github.com/kourva/AwesomeChatGPTBot) ⭐ 150 | 🐛 9 | 🌐 Python | 📅 2026-11-23 Free & Rich-Feature ChatGPT Telegram bot for enhanced conversations.
+* [AwesomeChatGPTBot](https://github.com/kourva/AwesomeChatGPTBot) ⭐ 150 | 🐛 11 | 🌐 Python | 📅 2026-11-25 Free & Rich-Feature ChatGPT Telegram bot for enhanced conversations.
 * [openai-functools](https://github.com/Jakob-98/openai-functools) ⚠️ Archived Simplifying Management and Creation of OpenAI Function Metadata.
 * [ChatGPT-ShellMaster](https://github.com/VolkanSah/ChatGPT-ShellMaster) ⚠️ Archived ChatGPT ShellMaster enables command-line interactions via chat using OpenAI's ChatGPT.
 
 ### Go
 
-* [Casibase](https://github.com/casibase/casibase) ⭐ 5,753 | 🐛 49 | 🌐 Go | 📅 2026-11-06 Casibase provides an open source LangChain-like AI knowledge database and chatbot built using Golang with Admin UI and multi-model support (DeepSeek R1, ChatGPT, Claude, Llama 3, HuggingFace, etc.). Ability to provide AI-driven smart replies.
+* [Casibase](https://github.com/casibase/casibase) ⭐ 5,755 | 🐛 49 | 🌐 Go | 📅 2026-11-06 Casibase provides an open source LangChain-like AI knowledge database and chatbot built using Golang with Admin UI and multi-model support (DeepSeek R1, ChatGPT, Claude, Llama 3, HuggingFace, etc.). Ability to provide AI-driven smart replies.
 * [doctorgpt](https://github.com/ingyamilmolinar/doctorgpt) ⭐ 209 | 🐛 0 | 🌐 Go | 📅 2023-05-10 DoctorGPT is a lightweight self-contained binary that monitors your application logs for problems and diagnoses them.
 
 ### Kotlin
@@ -97,13 +97,13 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## API tools
 
-* [Embedchain](https://github.com/embedchain/embedchain) ⭐ 69,433 | 🐛 992 | 🌐 Python | 📅 2026-11-24: Framework to create ChatGPT like bots over your dataset.
-* [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) ⭐ 47,502 | 🐛 1,156 | 🌐 TypeScript | 📅 2026-11-25 Clone of ChatGPT, uses official model, reverse-engineered UI, with AI model switching, message search, and prompt templates
-* [one-api](https://github.com/songquanpeng/one-api) ⭐ 37,476 | 🐛 1,041 | 🌐 JavaScript | 📅 2026-01-09: OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
+* [Embedchain](https://github.com/embedchain/embedchain) ⭐ 69,481 | 🐛 998 | 🌐 Python | 📅 2026-11-25: Framework to create ChatGPT like bots over your dataset.
+* [chatgpt-clone](https://github.com/danny-avila/chatgpt-clone) ⭐ 47,532 | 🐛 1,142 | 🌐 TypeScript | 📅 2026-11-25 Clone of ChatGPT, uses official model, reverse-engineered UI, with AI model switching, message search, and prompt templates
+* [one-api](https://github.com/songquanpeng/one-api) ⭐ 37,481 | 🐛 1,041 | 🌐 JavaScript | 📅 2026-01-09: OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
 * [Unofficial API in Python](https://github.com/acheong08/ChatGPT) ⚠️ Archived Reverse engineered ChatGPT API
 * [Unofficial API in JS/TS](https://github.com/transitive-bullshit/chatgpt-api) ⚠️ Archived Node.js client for the official ChatGPT API.
-* [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT) ⭐ 4,178 | 🐛 35 | 🌐 Python | 📅 2026-07-19 Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
-* [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 1,198 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-01 - Records a coding-agent session below the harness, then replays it offline with the network off or forks it from any step onto a different model. Ships an MCP server. Apache-2.0.
+* [TLS-based API (Python)](https://github.com/rawandahmad698/PyChatGPT) ⭐ 4,179 | 🐛 35 | 🌐 Python | 📅 2026-07-19 Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
+* [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ⭐ 1,219 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-01 - Records a coding-agent session below the harness, then replays it offline with the network off or forks it from any step onto a different model. Ships an MCP server. Apache-2.0.
 * [This repo is unofficial ChatGPT api](https://github.com/taranjeet/chatgpt-api) ⭐ 701 | 🐛 13 | 🌐 Python | 📅 2023-07-10 It is based on Daniel Gross's WhatsApp GPT
 * [toolkit-ai](https://github.com/hey-pal/toolkit-ai) ⭐ 527 | 🐛 4 | 🌐 TypeScript | 📅 2023-04-19 AI-agents that automatically generate and use Langchain Tools and ChatGPT plugins
 * [DelphiOpenAI](https://github.com/HemulGM/DelphiOpenAI) ⭐ 319 | 🐛 1 | 🌐 Pascal | 📅 2026-07-14 OpenAI API client for Delphi. Use ChatGPT, DALL-E and other products
@@ -130,12 +130,12 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## Browser Extensions
 
-* [openai-translator](https://github.com/yetone/openai-translator) ⭐ 25,077 | 🐛 525 | 🌐 TypeScript | 📅 2026-11-16 A Chrome extension for word translation based on ChatGPT API
-* [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) ⭐ 13,000 | 🐛 106 | 🌐 TypeScript | 📅 2024-08-14 Extension to display ChatGPT response alongside Google Search results
-* [ChatGPT for Twitter](https://github.com/wong2/chat-gpt-google-extension) ⭐ 13,000 | 🐛 106 | 🌐 TypeScript | 📅 2024-08-14 Chrome extension to generate tweets/replies to tweets in different moods and by optionally giving instructions
-* [chatGPTBox](https://github.com/josStorer/chatGPTBox) ⭐ 10,786 | 🐛 235 | 🌐 JavaScript | 📅 2026-11-23 Integrating ChatGPT into your browser deeply, everything you need is here
+* [openai-translator](https://github.com/yetone/openai-translator) ⭐ 25,081 | 🐛 523 | 🌐 TypeScript | 📅 2026-11-25 A Chrome extension for word translation based on ChatGPT API
+* [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) ⭐ 13,002 | 🐛 106 | 🌐 TypeScript | 📅 2024-08-14 Extension to display ChatGPT response alongside Google Search results
+* [ChatGPT for Twitter](https://github.com/wong2/chat-gpt-google-extension) ⭐ 13,002 | 🐛 106 | 🌐 TypeScript | 📅 2024-08-14 Chrome extension to generate tweets/replies to tweets in different moods and by optionally giving instructions
+* [chatGPTBox](https://github.com/josStorer/chatGPTBox) ⭐ 10,787 | 🐛 233 | 🌐 JavaScript | 📅 2026-11-23 Integrating ChatGPT into your browser deeply, everything you need is here
 * [WebChatGPT](https://github.com/qunash/chatgpt-advanced/) ⭐ 6,412 | 🐛 96 | 🌐 TypeScript | 📅 2024-08-13 augment your prompts to ChatGPT with web search results
-* [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) ⭐ 2,066 | 🐛 85 | 🌐 TypeScript | 📅 2024-10-14 view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo!
+* [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) ⭐ 2,067 | 🐛 85 | 🌐 TypeScript | 📅 2024-10-14 view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo!
 * [ChatGPT-pdf](https://github.com/liady/ChatGPT-pdf) ⭐ 1,476 | 🐛 35 | 🌐 JavaScript | 📅 2023-04-12 Extension to add share abilities to ChatGPT (PDF, PNG or a sharable link
 * [ChatGPT-Prompt-Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) ⭐ 1,311 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-01 Multi-purpose ChatGPT Chrome Extension
 * [Automate your browser with GPT-4](https://github.com/TaxyAI/browser-extension) ⭐ 1,277 | 🐛 38 | 🌐 TypeScript | 📅 2025-01-15 uses GPT-4 to control your browser and perform repetitive actions on your behalf
@@ -163,13 +163,13 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## Desktop Applications
 
-* [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) ⭐ 54,677 | 🐛 967 | 🌐 Rust | 📅 2024-08-29 powered by ChatGPT & Tauri
-* [BingGPT](https://github.com/dice2o/BingGPT) ⭐ 8,838 | 🐛 240 | 🌐 JavaScript | 📅 2024-02-08  chat with Bing on Windows/MacOS/Linux without installing Microsoft Edge or browser plugins. Export full conversation to Markdown, PNG or PDF.
+* [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) ⭐ 54,685 | 🐛 967 | 🌐 Rust | 📅 2024-08-29 powered by ChatGPT & Tauri
+* [BingGPT](https://github.com/dice2o/BingGPT) ⭐ 8,839 | 🐛 240 | 🌐 JavaScript | 📅 2024-02-08  chat with Bing on Windows/MacOS/Linux without installing Microsoft Edge or browser plugins. Export full conversation to Markdown, PNG or PDF.
 * [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) ⚠️ Archived ChatGPT for Mac, living in your menubar
-* [Locally Uncensored](https://github.com/PurpleDoubleD/locally-uncensored) ⭐ 4,676 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-24 Open-source desktop app for running uncensored AI models locally. Chat, image generation, and video generation — fully private and offline. Built with Tauri, React, Ollama, and ComfyUI.
-* [cheetah](https://github.com/leetcode-mafia/cheetah) ⭐ 4,246 | 🐛 20 | 🌐 Swift | 📅 2025-01-14 Whisper & GPT-based app for passing remote SWE interviews
+* [Locally Uncensored](https://github.com/PurpleDoubleD/locally-uncensored) ⭐ 4,711 | 🐛 19 | 🌐 TypeScript | 📅 2026-11-24 Open-source desktop app for running uncensored AI models locally. Chat, image generation, and video generation — fully private and offline. Built with Tauri, React, Ollama, and ComfyUI.
+* [cheetah](https://github.com/leetcode-mafia/cheetah) ⭐ 4,247 | 🐛 20 | 🌐 Swift | 📅 2025-01-14 Whisper & GPT-based app for passing remote SWE interviews
 * [free-chatgpt-client-pub](https://github.com/akl7777777/free-chatgpt-client-pub) ⭐ 2,010 | 🐛 6 | 🌐 JavaScript | 📅 2025-06-13 A free chatgpt client, no need for a key, no need to log in
-* [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop) ⭐ 1,996 | 🐛 39 | 🌐 Rust | 📅 2023-12-23  Windows/MacOS/Linux desktop menubar app using tauri & rust.
+* [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop) ⭐ 1,995 | 🐛 39 | 🌐 Rust | 📅 2023-12-23  Windows/MacOS/Linux desktop menubar app using tauri & rust.
 * [IntelliBar](https://intellibar.app/) Spotlight-like macOS app that puts ChatGPT a shortcut away.
 * [MindMac](https://mindmac.app) Feature-rich & privacy-first native ChatGPT app for macOS to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place, designed for maximum productivity. Currently available in 15 languages.
 * [BrainSoup](https://www.nurgo-software.com/products/brainsoup) Versatile multi-LLM client for Windows with local document indexing, RAG, multi-modality, multi-agent automation, code interpreter, sandboxed file system and more.
@@ -183,7 +183,7 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ### Emacs
 
-* [gptel](https://github.com/karthink/gptel) ⭐ 3,573 | 🐛 208 | 🌐 Emacs Lisp | 📅 2026-11-21 GPTel is a simple Large Language Model chat client for Emacs, with support for multiple models and backends.
+* [gptel](https://github.com/karthink/gptel) ⭐ 3,572 | 🐛 208 | 🌐 Emacs Lisp | 📅 2026-11-21 GPTel is a simple Large Language Model chat client for Emacs, with support for multiple models and backends.
 * [chatgpt-shell](https://github.com/xenodium/chatgpt-shell) ⭐ 1,210 | 🐛 60 | 🌐 Emacs Lisp | 📅 2026-09-18 ChatGPT and DALL-E Emacs shells + Org Babel.
 * [org-ai](https://github.com/rksm/org-ai) ⭐ 823 | 🐛 45 | 🌐 Emacs Lisp | 📅 2026-01-07 Minor mode for Emacs org-mode that provides access to generative AI models.
 
@@ -208,16 +208,16 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## Chat bots
 
-* [gpt4all](https://github.com/nomic-ai/gpt4all) ⭐ 77,330 | 🐛 772 | 🌐 C++ | 📅 2025-05-27 a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
-* [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) ⭐ 48,063 | 🐛 42 | 🌐 Python | 📅 2026-11-25 Wechat robot based on ChatGPT, which using OpenAI api and itchat library
+* [gpt4all](https://github.com/nomic-ai/gpt4all) ⭐ 77,343 | 🐛 772 | 🌐 C++ | 📅 2025-05-27 a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
+* [chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) ⭐ 48,077 | 🐛 47 | 🌐 Python | 📅 2026-11-26 Wechat robot based on ChatGPT, which using OpenAI api and itchat library
 * [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) ⚠️ Archived GPT4 & LangChain Chatbot for large PDF docs
 * [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) ⭐ 13,224 | 🐛 54 | 🌐 TypeScript | 📅 2024-05-20 Use ChatGPT On Wechat via wechaty
 * [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) ⭐ 4,712 | 🐛 105 | 🌐 TypeScript | 📅 2025-10-23 ChatGPT for Wechat
 * [myGPTReader](https://github.com/madawei2699/myGPTReader) ⚠️ Archived - Slack bot that can read any webpage, YouTube video, or document and summarize it. Voice output. Chinese support.
-* [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) ⭐ 4,140 | 🐛 58 | 🌐 JavaScript | 📅 2024-01-27 A ChatGPT implementation with support for Bing's GPT-4 version of ChatGPT
-* [Go Telegram bot](https://github.com/m1guelpf/chatgpt-telegram) ⭐ 3,874 | 🐛 60 | 🌐 Go | 📅 2023-04-10 Run your own GPTChat Telegram bot, with a single command!
-* [WhatsApp bot](https://github.com/danielgross/whatsapp-gpt) ⭐ 3,051 | 🐛 68 | 🌐 Go | 📅 2024-04-26 gpt for whatsapp
-* [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) ⭐ 2,730 | 🐛 0 | 🌐 Python | 📅 2026-09-12 Integrate ChatGPT into your own discord bot
+* [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api) ⭐ 4,140 | 🐛 60 | 🌐 JavaScript | 📅 2024-01-27 A ChatGPT implementation with support for Bing's GPT-4 version of ChatGPT
+* [Go Telegram bot](https://github.com/m1guelpf/chatgpt-telegram) ⭐ 3,873 | 🐛 60 | 🌐 Go | 📅 2023-04-10 Run your own GPTChat Telegram bot, with a single command!
+* [WhatsApp bot](https://github.com/danielgross/whatsapp-gpt) ⭐ 3,050 | 🐛 68 | 🌐 Go | 📅 2024-04-26 gpt for whatsapp
+* [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot) ⭐ 2,733 | 🐛 0 | 🌐 Python | 📅 2026-09-12 Integrate ChatGPT into your own discord bot
 * [chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) ⭐ 1,627 | 🐛 34 | 🌐 Python | 📅 2023-03-01 This is a very early attempt at having chatGPT work within a telegram bot
 * [raycast-g4f Extension (unofficial)](https://github.com/XInTheDark/raycast-g4f) ⭐ 1,087 | 🐛 20 | 🌐 JavaScript | 📅 2025-12-20 Use many GPT models completely for free, on Raycast. NO API Key required!
 * [For personal WeChat ChatGPT access](https://github.com/djun/wechatbot) ⭐ 952 | 🐛 7 | 📅 2023-12-10 Access ChatGPT for personal WeChat
@@ -240,9 +240,9 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## Extend ChatGPT Feature
 
-* [DocsGPT](https://github.com/arc53/DocsGPT) ⭐ 18,379 | 🐛 80 | 🌐 Python | 📅 2026-11-24 GPT-powered chat for documentation search & assistance
-* [roomGPT](https://github.com/Nutlope/roomGPT) ⭐ 10,725 | 🐛 37 | 🌐 TypeScript | 📅 2024-04-20 Upload a photo of your room to generate your dream room with AI
-* [ai-research-for-practise](https://github.com/phodal/ai-research-for-practise) ⭐ 5,683 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-03-11 A powerful image generation model, can through the study of the evolution of an image to generate a new image
+* [DocsGPT](https://github.com/arc53/DocsGPT) ⭐ 18,381 | 🐛 81 | 🌐 Python | 📅 2026-11-25 GPT-powered chat for documentation search & assistance
+* [roomGPT](https://github.com/Nutlope/roomGPT) ⭐ 10,726 | 🐛 37 | 🌐 TypeScript | 📅 2024-04-20 Upload a photo of your room to generate your dream room with AI
+* [ai-research-for-practise](https://github.com/phodal/ai-research-for-practise) ⭐ 5,688 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-03-11 A powerful image generation model, can through the study of the evolution of an image to generate a new image
 * [twitterbio](https://github.com/Nutlope/twitterbio) ⭐ 1,767 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-23 Generate your Twitter bio with OpenAI and Vercel Edge Functions
 * [shareGPT](https://github.com/domeccleston/sharegpt) ⚠️ Archived permanent links to your conversations
 * [Kubectl OpenAI plugin](https://github.com/sozercan/kubectl-ai) ⭐ 1,194 | 🐛 15 | 🌐 Go | 📅 2025-01-27 This project is a kubectl plugin to generate and apply Kubernetes manifests using OpenAI GPT
@@ -255,25 +255,25 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 
 ## Web applications
 
-* [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) ⭐ 88,989 | 🐛 870 | 🌐 TypeScript | 📅 2026-10-20 One-Click to deploy your own ChatGPT web UI
+* [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) ⭐ 88,988 | 🐛 870 | 🌐 TypeScript | 📅 2026-10-20 One-Click to deploy your own ChatGPT web UI
 
-* [chatgpt\_academic](https://github.com/binary-husky/chatgpt_academic) ⭐ 71,711 | 🐛 331 | 🌐 Python | 📅 2026-01-25 Specialized ChatGPT extension for scientific research work, optimized for enhancing the experience of polishing academic papers
+* [chatgpt\_academic](https://github.com/binary-husky/chatgpt_academic) ⭐ 71,720 | 🐛 331 | 🌐 Python | 📅 2026-01-25 Specialized ChatGPT extension for scientific research work, optimized for enhancing the experience of polishing academic papers
 
 * [AgentGPT](https://github.com/reworkd/AgentGPT) ⚠️ Archived 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 
-* [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) ⭐ 33,311 | 🐛 245 | 🌐 TypeScript | 📅 2024-08-03 An open source ChatGPT UI
+* [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) ⭐ 33,310 | 🐛 245 | 🌐 TypeScript | 📅 2024-08-03 An open source ChatGPT UI
 
 * [ChatALL](https://github.com/sunner/ChatALL) ⚠️ Archived Concurrently chat with ChatGPT, Bing Chat, bard, Alpaca, Vincuna, Claude, ChatGLM, MOSS, iFlytek Spark, ERNIE and more, discover the best answers
 
-* [BibiGPT](https://github.com/JimmyLv/BibiGPT) ⭐ 6,288 | 🐛 42 | 🌐 TypeScript | 📅 2026-11-04 One-click summary for video & audio content: Bilibili | YouTube | Websites丨Podcasts | Meetings | Local files, etc
+* [BibiGPT](https://github.com/JimmyLv/BibiGPT) ⭐ 6,291 | 🐛 42 | 🌐 TypeScript | 📅 2026-11-04 One-click summary for video & audio content: Bilibili | YouTube | Websites丨Podcasts | Meetings | Local files, etc
 
 * [chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) ⚠️ Archived Elegant and Powerfull. Powered by OpenAI and Vercel
 
 * [examor](https://github.com/codeacme17/examor) ⭐ 1,071 | 🐛 2 | 🌐 TypeScript | 📅 2025-06-18 A website application that allows you to take exams based on your knowledge notes. Let you really remember what you have learned and written.
 
-* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 824 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-24 - Source-available QA agent for natural-language web and mobile tests using OpenAI-compatible models, with persistent test memory, a dashboard, CLI, and MCP server.
+* [Agent QA](https://github.com/vostride/agent-qa) ⭐ 822 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-24 - Source-available QA agent for natural-language web and mobile tests using OpenAI-compatible models, with persistent test memory, a dashboard, CLI, and MCP server.
 
-* [chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) ⭐ 803 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-16 Translate your locale json files with AI assistance
+* [chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) ⭐ 804 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-16 Translate your locale json files with AI assistance
 
 * [kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) ⭐ 263 | 🐛 0 | 🌐 TypeScript | 📅 2023-03-10 AI search & chat on your Kindle highlights
 
@@ -312,14 +312,14 @@ If you created or found any awesome resource about ChatGPT, Your contributions a
 ## CLI tools
 
 * [Jev Social](https://github.com/socai-io/jev-social) ⭐ 220 | 🐛 13 | 🌐 JavaScript | 📅 2026-11-08 - Read-only social research agent where Jev chooses bounded operations, the local `socai CLI` drives signed-in Chrome on Instagram, TikTok, and LinkedIn, and source-linked evidence becomes a cited report.
-* [5dive](https://github.com/5dive-ai/5dive) ⭐ 127 | 🐛 3 | 🌐 Shell | 📅 2026-11-25 - Runs a team of AI agents on your own Linux server. Each agent is a Linux user running Codex, Claude Code or another official agent CLI as a systemd service, and you message them on Telegram or Discord.
+* [5dive](https://github.com/5dive-ai/5dive) ⭐ 127 | 🐛 5 | 🌐 Shell | 📅 2026-11-26 - Runs a team of AI agents on your own Linux server. Each agent is a Linux user running Codex, Claude Code or another official agent CLI as a systemd service, and you message them on Telegram or Discord.
 * [YYLO](https://github.com/yylo-dev/yylo) ⭐ 69 | 🐛 23 | 🌐 Python | 📅 2026-11-24 - Command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries. Each task gets a dedicated branch/worktree, the merge queue owns risk-based review, and subagents such as Pi and Codex do the work.
 
 ## Prompts
 
 * [AILesson Prompts](https://ailesson.io/prompts) - 300+ practical prompt recipes for work, learning, research, planning, and everyday tasks.
-* [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) ⭐ 237 | 🐛 0 | 📅 2026-10-01 - 119 production system prompts and tool schemas from 43 shipping AI products, 44 of them recorded off the wire with the command that reproduces each; every file marked as recorded or as reported by the model.
+* [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) ⭐ 329 | 🐛 0 | 📅 2026-10-01 - 119 production system prompts and tool schemas from 43 shipping AI products, 44 of them recorded off the wire with the command that reproduces each; every file marked as recorded or as reported by the model.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
